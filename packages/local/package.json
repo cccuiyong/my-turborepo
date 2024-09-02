@@ -1,0 +1,6 @@
+{
+    "name": "@repo/local",
+    "scripts": {
+        "lint": "eslint"
+    }
+}
